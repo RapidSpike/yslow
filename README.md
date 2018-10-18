@@ -3,6 +3,10 @@ YSlow
 
 YSlow analyzes web pages and suggests ways to improve their performance based on a set of [rules for high performance web pages](http://developer.yahoo.com/performance/rules.html).
 
+This forked repo fixes an issue where newer versions of jsdom break things.
+
+The rest of this README is taken from the original repo.
+
 ### Building
 
 All flavors:
